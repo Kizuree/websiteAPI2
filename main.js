@@ -8,5 +8,6 @@ function doVibrate(){
     navigator.vibrate(0);
 
     console.log("vibrating")
+    return true;
 }
 
